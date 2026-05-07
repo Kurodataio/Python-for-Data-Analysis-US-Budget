@@ -1,7 +1,7 @@
 # Python-for-Data-Analysis-US-Budget
 This project explors how U.S. federal spending changed from 1962 to 2018. 
 
-[Notebook Link](https://github.com/Kurodataio/Python-for-Data-Analysis-US-Budget/blob/mainPractical_Activity-US_Budget.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/Python-for-Data-Analysis-US-Budget/blob/main/Practical_Activity-US_Budget.ipynb)  
 
 
 ---
@@ -100,6 +100,27 @@ Summarize your findings, insights, and visualizations:
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables  ![Graph](img1.png)
 - Include important observations or correlations found in the data  
+
+
+![Top 5 U.S. Departments by Budget Allocation in 1962](images/Top_5_US_Departments_by_Budget_Allocation_in_1962.png)
+
+
+![Proportion of Department of Defense vs. Other Departments (1962-2018)](images/Proportion_Departments-1962-2018.png)
+
+![Inflation Adjusted Budget Dollars by Fiscal Year](images/Inflation_Adjusted_Budget_Dollars_by_Fiscal_Year.pn)
+
+![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
+
+![Proportion of Total Federal Budget Allocated to Branches](images/Proportion_of_Total_Federal_Budget_Allocated_to_Branches.png)
+
+![Most-Funded Departments (Inflation Adjusted)](images/Most-Funded_Departments.png)
+
+![Top 5 Funded Departments (Inflation Adjusted) in 1962 vs 2018](images/Top_5_Funded_Departments_in_1962-vs-2018.png)
+
+![Which President Had the Largest Inflation-Adjusted Budget?](images/President_Largest_Budget.png)
+
+![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png)
+
 
 ---
 
