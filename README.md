@@ -1,7 +1,8 @@
 # Python-for-Data-Analysis-US-Budget
 A short description of your data analysis project: what dataset you used, why you analyzed it, and the problem or question you aimed to answer.  
 
-[Notebook Link](https://github.com/Sodiq-Shodimu/nexygen-project/blob/main/preprocessed.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/Python-for-Data-Analysis-US-Budget/blob/mainPractical_Activity-US_Budget.ipynb)  
+
 
 ---
 
@@ -78,7 +79,7 @@ jupyter notebook
 
 Instructions for using the project:
 
-1. Open the main notebook (`analysis.ipynb`)  
+1. Open the main notebook (`Practical_Activity-US_Budget`)  
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
