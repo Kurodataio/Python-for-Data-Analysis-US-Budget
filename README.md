@@ -123,6 +123,6 @@ Summarize your findings, insights, and visualizations:
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) – feel free to use and modify it.  
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  
 
 ---
