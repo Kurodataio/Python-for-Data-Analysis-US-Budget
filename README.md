@@ -30,21 +30,18 @@ A short description of your data analysis project: what dataset you used, why yo
 
 ## Dataset
 
-Provide details about the dataset used:
-
-- Source of the dataset (link if available)  
-- Size of the dataset (# of rows and columns)  
-- Key features/columns used  
-- Any preprocessing or cleaning steps  
-
+- Source of the dataset is **'Global_Superstore.csv'** and sourced from ITOnlinelearning/Datawars
+- The dataset has **?? rows and ?? columns/features**
+- Key features/columns are ???
+- The ...
+- Duplicated rows, valid feature types such as dates where checked
 ---
 
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
+  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn</li>
   <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
-  <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
 </ul>
 
 <p>
@@ -53,6 +50,18 @@ Provide details about the dataset used:
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+
+</p>
+
+<P>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MIT%20License-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
+
 </p>
 
 ---
@@ -107,9 +116,8 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-
-- **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
+- **Tutorials / References:** Datawars/ITOnlinelearning.com 
+- **Dataset Source:** Datawars/ITOnlinelearning.com 
 
 ---
 
