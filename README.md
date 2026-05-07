@@ -107,7 +107,7 @@ Summarize your findings, insights, and visualizations:
 
 ![Proportion of Department of Defense vs. Other Departments (1962-2018)](images/Proportion_Departments-1962-2018.png)
 
-![Inflation Adjusted Budget Dollars by Fiscal Year](images/Inflation_Adjusted_Budget_Dollars_by_Fiscal_Year.pn)
+![Inflation Adjusted Budget Dollars by Fiscal Year](images/Inflation_Adjusted_Budget_Dollars_by_Fiscal_Year.png)
 
 ![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
 
