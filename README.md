@@ -63,13 +63,10 @@ Step-by-step instructions to set up the project locally:
 ```bash
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Kurodataio/Python-for-Data-Analysis-US-Budget.git
 
 # Navigate to the project folder
-cd YOUR_REPO
-
-# Install dependencies
-pip install -r requirements.txt
+cd Python-for-Data-Analysis-US-Budget
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -85,9 +82,6 @@ Instructions for using the project:
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
-Include screenshots of your visualizations if available:  
-
-![Visualization Example](assets/images/screenshot.png)  
 
 ---
 
