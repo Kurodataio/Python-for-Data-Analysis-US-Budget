@@ -1,5 +1,5 @@
 # Python-for-Data-Analysis-US-Budget
-A short description of your data analysis project: what dataset you used, why you analyzed it, and the problem or question you aimed to answer.  
+This project explors how U.S. federal spending changed from 1962 to 2018. 
 
 [Notebook Link](https://github.com/Kurodataio/Python-for-Data-Analysis-US-Budget/blob/mainPractical_Activity-US_Budget.ipynb)  
 
@@ -22,9 +22,8 @@ A short description of your data analysis project: what dataset you used, why yo
 
 ## Overview
 
-- **Motivation:** Why did you choose this dataset or problem?  
-- **Objective:** What question(s) are you trying to answer through this analysis?  
-- **Learning Outcomes:** What did you learn while working on this project?  
+- How has the U.S. federal spending changed from 1962 to 2018?
+- How have how priorities shifted over time?
 
 ---
 
@@ -34,6 +33,7 @@ A short description of your data analysis project: what dataset you used, why yo
 - The dataset has **1710 rows and 6 columns/features**
 - Key features/columns are Department, Year,President, Budget in $ and Budget (Inflation Adjusted) in $
 - The dataset has been pre-processed already
+
 ---
 
 <h2>Technologies Used</h2>
