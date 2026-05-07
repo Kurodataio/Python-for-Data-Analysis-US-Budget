@@ -30,17 +30,16 @@ A short description of your data analysis project: what dataset you used, why yo
 
 ## Dataset
 
-- Source of the dataset is **'Global_Superstore.csv'** and sourced from ITOnlinelearning/Datawars
-- The dataset has **?? rows and ?? columns/features**
-- Key features/columns are ???
-- The ...
-- Duplicated rows, valid feature types such as dates where checked
+- Source of the dataset is **'us_budget.csv'** and sourced from ITOnlinelearning/Datawars
+- The dataset has **1710 rows and 6 columns/features**
+- Key features/columns are Department, Year,President, Budget in $ and Budget (Inflation Adjusted) in $
+- The dataset has been pre-processed already
 ---
 
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn</li>
+  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib</li>
   <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
 </ul>
 
@@ -49,7 +48,6 @@ A short description of your data analysis project: what dataset you used, why yo
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 
 </p>
 
