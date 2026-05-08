@@ -31,7 +31,8 @@ This project explors how U.S. federal spending changed from 1962 to 2018.
 
 - Source of the dataset is **'us_budget.csv'** and sourced from ITOnlinelearning/Datawars
 - The dataset has **1710 rows and 6 columns/features**
-- Key features/columns are Department, Year,President, Budget in $ and Budget (Inflation Adjusted) in $
+- The dataset covers the period 1962 to 2018
+- Key features/columns are Department, Year, President, Budget in $ and Budget (Inflation Adjusted) in $
 - The dataset has been pre-processed already
 
 ---
@@ -95,11 +96,15 @@ Instructions for using the project:
 
 ## Analysis & Visualizations 
 
-Summarize your findings, insights, and visualizations:
+- The US budget has been increasing from 1962 through to 2018.
 
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Graph](img1.png)
-- Include important observations or correlations found in the data  
+![Inflation Adjusted Budget Dollars by Fiscal Year](images/Inflation_Adjusted_Budget_Dollars_by_Fiscal_Year.png)
+
+- In 1962 under John F. Kennedy, the Department of Defense had the highest budget
+- In 2018 under Donald Trump, the Department of Defense still had the highest budget
+- Of the top 5 funded departments, the Department of Defense was still the biggest funded in 1962 and 2018.
+
+![Top 5 Funded Departments (Inflation Adjusted) in 1962 vs 2018](images/Top_5_Funded_Departments_in_1962-vs-2018.png)
 
 
 ![Top 5 U.S. Departments by Budget Allocation in 1962](images/Top_5_US_Departments_by_Budget_Allocation_in_1962.png)
@@ -107,7 +112,7 @@ Summarize your findings, insights, and visualizations:
 
 ![Proportion of Department of Defense vs. Other Departments (1962-2018)](images/Proportion_Departments-1962-2018.png)
 
-![Inflation Adjusted Budget Dollars by Fiscal Year](images/Inflation_Adjusted_Budget_Dollars_by_Fiscal_Year.png)
+
 
 ![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
 
@@ -115,7 +120,6 @@ Summarize your findings, insights, and visualizations:
 
 ![Most-Funded Departments (Inflation Adjusted)](images/Most-Funded_Departments.png)
 
-![Top 5 Funded Departments (Inflation Adjusted) in 1962 vs 2018](images/Top_5_Funded_Departments_in_1962-vs-2018.png)
 
 ![Which President Had the Largest Inflation-Adjusted Budget?](images/President_Largest_Budget.png)
 
@@ -126,10 +130,11 @@ Summarize your findings, insights, and visualizations:
 
 ## Conclusion 
 
-- Summarize the outcome of your analysis  
-- What are the main insights or takeaways?  
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis  
+- Between the Excutive, Legislative and Judicial branches, the judicial has had the biggest share of teh federal budget at 50.3%
+
+![Proportion of Total Federal Budget Allocated to Branches](images/Proportion_of_Total_Federal_Budget_Allocated_to_Branches.png)
+
+- The data shows that even as the federal budget increases, the Department of Defense has maintained the largest singular departmental funding. This funding has been immune to partisan or elected presidents
 
 ---
 
