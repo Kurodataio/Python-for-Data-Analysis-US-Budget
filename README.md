@@ -109,10 +109,6 @@ Instructions for using the project:
 ![Proportion of Total Federal Budget Allocated to Branches](images/Proportion_of_Total_Federal_Budget_Allocated_to_Branches.png)
 
 
-
-<!-- 
-
-
 ![Proportion of Department of Defense vs. Other Departments (1962-2018)](images/Proportion_Departments-1962-2018.png)
 
 
@@ -125,7 +121,7 @@ Instructions for using the project:
 
 ![Which President Had the Largest Inflation-Adjusted Budget?](images/President_Largest_Budget.png)
 
-![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png) -->
+![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png)
 
 
 ---
