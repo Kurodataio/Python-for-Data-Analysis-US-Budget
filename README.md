@@ -103,15 +103,17 @@ Instructions for using the project:
 - In 1962 under John F. Kennedy, the Department of Defense had the highest budget
 - In 2018 under Donald Trump, the Department of Defense still had the highest budget
 - Of the top 5 funded departments, the Department of Defense was still the biggest funded in 1962 and 2018.
-
-![Top 5 Funded Departments (Inflation Adjusted) in 1962 vs 2018](images/Top_5_Funded_Departments_in_1962-vs-2018.png)
-
-
 ![Top 5 U.S. Departments by Budget Allocation in 1962](images/Top_5_US_Departments_by_Budget_Allocation_in_1962.png)
+
+- Between the Excutive, Legislative and Judicial branches, the judicial has had the biggest share of teh federal budget at 50.3%
+![Proportion of Total Federal Budget Allocated to Branches](images/Proportion_of_Total_Federal_Budget_Allocated_to_Branches.png)
+
+
+
+<!-- 
 
 
 ![Proportion of Department of Defense vs. Other Departments (1962-2018)](images/Proportion_Departments-1962-2018.png)
-
 
 
 ![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
@@ -123,16 +125,13 @@ Instructions for using the project:
 
 ![Which President Had the Largest Inflation-Adjusted Budget?](images/President_Largest_Budget.png)
 
-![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png)
+![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png) -->
 
 
 ---
 
 ## Conclusion 
 
-- Between the Excutive, Legislative and Judicial branches, the judicial has had the biggest share of teh federal budget at 50.3%
-
-![Proportion of Total Federal Budget Allocated to Branches](images/Proportion_of_Total_Federal_Budget_Allocated_to_Branches.png)
 
 - The data shows that even as the federal budget increases, the Department of Defense has maintained the largest singular departmental funding. This funding has been immune to partisan or elected presidents
 
