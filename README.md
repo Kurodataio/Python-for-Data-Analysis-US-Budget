@@ -105,7 +105,7 @@ Instructions for using the project:
 - Of the top 5 funded departments, the Department of Defense was still the biggest funded in 1962 and 2018.
 ![Top 5 U.S. Departments by Budget Allocation in 1962](images/Top_5_US_Departments_by_Budget_Allocation_in_1962.png)
 
-- Between the Excutive, Legislative and Judicial branches, the judicial has had the biggest share of teh federal budget at 50.3%
+- Between the Excutive, Legislative and Judicial branches, the judicial has had the biggest share of the federal budget at 50.3%
 ![Proportion of Total Federal Budget Allocated to Branches](images/Proportion_of_Total_Federal_Budget_Allocated_to_Branches.png)
 
 
@@ -132,8 +132,13 @@ Instructions for using the project:
 
 ## Conclusion 
 
-
 - The data shows that even as the federal budget increases, the Department of Defense has maintained the largest singular departmental funding. This funding has been immune to partisan or elected presidents
+
+- There is a difference between nominal growth vs real growth. Once we adjust for inflation the apparent continual nominal rise chnages. There are slower periods of growth and peaks which ay be attributed to policy actions.
+
+- The data and visuaizations are warnings that using nominal values without adjusting for inflation can be misleading. 
+
+- The data does not give the historical, political and social context that drive it. Deeper insight will require further context and research.
 
 ---
 
