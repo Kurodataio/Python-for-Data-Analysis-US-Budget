@@ -115,6 +115,8 @@ Instructions for using the project:
 
 ![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
 
+Between 1962 to 2018, Obama, George W. Bush and Bill CLinton had the highest budgets. The caveat is that all three served 2 terms, so it is a cumulative total.
+![Which President Had the Largest Inflation-Adjusted Budget?](images/President_Largest_Budget.png)
 
 Some departments such as the Department of Agriculture show no long term trends. Increases or decreases in budget are linked to each Presiddents policy or reaction to events.
 ![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png)
