@@ -116,9 +116,8 @@ Instructions for using the project:
 ![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
 
 
-![Which President Had the Largest Inflation-Adjusted Budget?](images/President_Largest_Budget.png)
-
-<!-- ![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png) -->
+Some departments such as the Department of Agriculture show no long term trends. Increases or decreases in budget are linked to each Presiddents policy or reaction to events.
+![Percentage Change in Inflation-Adjusted Budget for the Department of Agriculture by President](images/Percentage_Change_Dept_Agriculture_by_President.png)
 
 
 ---
