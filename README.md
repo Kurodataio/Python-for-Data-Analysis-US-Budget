@@ -113,6 +113,7 @@ Instructions for using the project:
 <!-- ![Proportion of Department of Defense vs. Other Departments (1962-2018)](images/Proportion_Departments-1962-2018.png)
  -->
 
+The data shows increasing numbers of departments such as Homeland Security contributing to the nominal and inflation adjusted budgets. 
 ![Proportion of Each Department\'s Budget Relative to Total Budget](images/Proportion_of_Depart_Budget_Relative_Total_Budget.png)
 
 Between 1962 to 2018, Barack Obama, George W. Bush and Bill CLinton had the highest budgets. The caveat is that all three served 2 terms, so it is a cumulative total.
