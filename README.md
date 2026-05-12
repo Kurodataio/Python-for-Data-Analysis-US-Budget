@@ -97,7 +97,6 @@ Instructions for using the project:
 ## Analysis & Visualizations 
 
 - The US budget has been increasing from 1962 through to 2018.
-
 ![Inflation Adjusted Budget Dollars by Fiscal Year](images/Inflation_Adjusted_Budget_Dollars_by_Fiscal_Year.png)
 
 - In 1962 under John F. Kennedy, the Department of Defense had the highest budget
